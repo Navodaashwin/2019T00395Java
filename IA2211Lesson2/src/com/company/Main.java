@@ -25,7 +25,7 @@ public class Main {
             System.out.println("Too lod");
         }
         else{
-            System.out.println("Allowed");
+            System.out.println("allowed");
         }
     }
 }
