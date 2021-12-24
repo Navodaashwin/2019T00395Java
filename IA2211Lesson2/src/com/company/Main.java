@@ -3,12 +3,12 @@ package com.company;
 public class Main {
 
     static String name="Ashwin";
-    static final int serialNum = 10; //defind constent
+    public static final int serialNum = 10; //defind constent
     boolean isActive = false;
     public static void main(String[] args) {
         System.out.println("hello world");
         System.out.println("Name " + name);
-//comment
+
         String myname ="Navoda" + " " + "Ashwin";
         System.out.println(myname);
 
