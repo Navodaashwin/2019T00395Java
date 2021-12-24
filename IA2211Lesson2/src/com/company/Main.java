@@ -19,7 +19,7 @@ public class Main {
         System.out.println("valC = " + valC);
         int age = 28;
         if(age<18){
-            System.out.println("Nosdadasdasdast eligible");
+            System.out.println("No eligible");
         }
         else if(age>88){
             System.out.println("Too lod");
